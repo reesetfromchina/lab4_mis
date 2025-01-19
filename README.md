@@ -1,5 +1,6 @@
 # lab4_mis
-
+![Screenshot_20250119_183822.png](Screenshot_20250119_183822.png)
+![Screenshot_20250119_183940.png](Screenshot_20250119_183940.png)
 A new Flutter project.
 
 ## Getting Started
